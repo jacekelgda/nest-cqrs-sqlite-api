@@ -30,7 +30,7 @@
       "rimraf": "^3.0.2",
       "rxjs": "^6.5.4",
       "sqlite3": "^4.0.3",
-      "typeorm": "0.2.16",
+      "typeorm": "0.2.25",
       "mysql": "^2.14.1"
    },
    "devDependencies": {
